@@ -1,0 +1,15 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM4",
+  "idf.adapterTargetName": "esp32c6",
+  "idf.openOcdConfigs": [
+    "board/esp32c6-builtin.cfg"
+  ],
+  "idf.flashType": "UART",
+  "files.associations": {
+    "sd_test_io.h": "c",
+    "sd_pwr_ctrl_by_on_chip_ldo.h": "c",
+    "semphr.h": "c",
+    "queue.h": "c"
+  }
+}
